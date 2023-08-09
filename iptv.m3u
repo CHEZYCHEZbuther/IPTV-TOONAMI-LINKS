@@ -1,0 +1,9 @@
+#EXTINF:-1, TOONAMI AFTERMATH EST
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-2, TOONAMI AFTERMATH PST
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-3, TOONAMI AFTERMATH MOVIES
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
